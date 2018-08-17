@@ -25,7 +25,7 @@
 		<div class="sidebar-module">
 		  <h4>Actions</h4>
 		  <ol class="list-unstyled">
-		    <li><a href="#">Edit</a></li>
+		    <li><a href="#">EditS</a></li>
 		    <li><a href="#">Delete</a></li>
 		    <li><a href="#">Add New User</a></li>
 		  </ol>
